@@ -114,12 +114,6 @@ streamlit run app.py
 
 Open your browser at http://localhost:8501
 
-🌐 Deployment
-
-You can easily deploy your app for free using Streamlit Cloud
-.
-Once deployed, you’ll receive a public link (e.g., https://yourname-credit-risk.streamlit.app) to share with instructors or clients.
-
 🎯 Learning Outcomes
 
 Understand logistic regression in credit risk modeling
@@ -127,6 +121,4 @@ Understand logistic regression in credit risk modeling
 Apply IRR and NPV in evaluating investment projects
 
 Visualize and interpret financial metrics interactively
-
-Develop and deploy a real-time financial analytics web app
 
